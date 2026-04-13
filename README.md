@@ -1,4 +1,4 @@
-# cf_ai_liveagent
+# AI Live Agent
 
 An AI-powered chat application built entirely on the Cloudflare Developer Platform.  
 This project was created as part of the Cloudflare Software Engineering Internship assignment.
