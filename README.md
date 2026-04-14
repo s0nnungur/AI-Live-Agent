@@ -54,3 +54,14 @@ This was an exploratory project and learning exercise rather than a production-r
 cd my-react-app
 npm install
 npm run dev
+```
+
+### Backend
+```bash
+cd cf-ai-worker
+wrangler dev
+```
+
+### Live Deployment
+Frontend: [Cloudflare Pages deployment]
+Backend: [Cloudflare Worker endpoint]
